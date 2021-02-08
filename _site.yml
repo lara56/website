@@ -1,3 +1,4 @@
+
 name: "my-website"
 
 navbar:
@@ -13,3 +14,15 @@ navbar:
     - text: "About"
 
       href: about.html
+
+output:
+
+  html_document:
+
+    highlight: textmate
+
+    include:
+
+      after_body: footer.html
+
+    css: styles.css
