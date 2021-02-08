@@ -1,12 +1,15 @@
-name: "website"
-output_dir: "docs"
+name: "my-website"
+
 navbar:
-  title: "Cars"
+
+  title: "My Website"
+
   left:
-  - text: "Home"
-   href: index.html
-  - text: "Speed and Distance"
-   href: speed-and-distance.html
-output:
-  html_document:
- theme: cosmo
+
+    - text: "Home"
+
+      href: index.html
+
+    - text: "About"
+
+      href: about.html
