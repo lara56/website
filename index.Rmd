@@ -1,1 +1,6 @@
+# Welcome to the GORS L&D Pages!
+
+::: {.lead-para}
+This site aims to be a one-stop shop for all learning & development resources pertaining to Operational Research within the Government Operational Research Service (GORS).
+:::
 
